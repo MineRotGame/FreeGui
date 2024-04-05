@@ -1,0 +1,11 @@
+name: Free
+version: '1.0-SNAPSHOT'
+main: org.ibear.me.free.FreeMain
+api-version: '1.20'
+commands:
+  free:
+    usage: /<command>
+    description: Free
+  clearcooldown:
+    usage: /<command>
+    description: ClearCooldown
